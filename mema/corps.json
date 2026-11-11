@@ -1,0 +1,7 @@
+{
+  "disponibilites": [
+    {"medicamentId": 1, "statut": "DISPONIBLE"},
+    {"medicamentId": 2, "statut": "INDISPONIBLE"},
+    {"medicamentId": 3, "statut": "SUR_COMMANDE"}
+  ]
+}
